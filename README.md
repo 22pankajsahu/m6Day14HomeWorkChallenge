@@ -74,7 +74,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- Name: [PANKAJ SAHU](https://github.com/pankajsahu789)
-- Email: [email@example.com](mailto:email@example.com)
-- GitHub: [github.com/pankajsahu789](https://github.com/pankajsahu789)
+- Name: [PANKAJ SAHU](https://linkedin.com/in/22pankajsahu)
+- Email: [22pankajsahu@gmail.com](mailto:22pankajsahu@gmail.com)
+- GitHub: [22pankajsahu](https://github.com/22pankajsahu)
 
